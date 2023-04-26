@@ -5,45 +5,25 @@ The repository will contain programs about Data Structure built on C plus plus l
 
 <ul>
 
-<h2><li> Using Struct And Pointers </li></h2>
-
-<ul>
-
 <h2><li> Static Array</li></h2>
 
 <ul>
 
 
-
 </ul>
 
-<h2><li> Dynamic Array</li></h2>
+<h2><li> Dynamic Array Using Struct ,Pointers and Memory Allocation</li></h2>
 
 <ul>
-
-
-
-</ul>
 
 
 </ul>
 
 
-<h2><li> Using Class  </li></h2>
+<h2><li> Dynamic Array Using Class </li></h2>
 
 <ul>
 
-<h2><li> Static Array</li></h2>
-
-<ul>
-<h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/Arrays_init_trav_class.cpp"> 1. Initialization and Traversal </a></h3>
-
-
-</ul>
-
-<h2><li> Dynamic Array</li></h2>
-
-<ul>
 <h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/Arrays_init_trav_class_dyn.cpp"> 1. Initialization and Traversal </a></h3>
   
  ````Syntax
@@ -81,8 +61,9 @@ public:
 
 
 </ul>
-
-
 </ul>
 
 </ul>
+
+
+
