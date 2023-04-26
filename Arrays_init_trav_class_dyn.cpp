@@ -5,12 +5,13 @@ using namespace std;
 class Array
 {
 
+private:
     int *a;
     int size;
 public:
-    Array(int b)
+    Array(int size)
     {
-        size = b;
+         this->size= size;
         a = new int[size];
         //Array Traversal
         for (int i = 0; i < size; i++)
@@ -31,6 +32,7 @@ public:
         {
             cout << a[i] << endl;
         }
+
     }
 };
 
