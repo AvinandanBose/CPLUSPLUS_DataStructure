@@ -5,7 +5,7 @@ The repository will contain programs about Data Structure built on C plus plus l
 
 <ul>
 
-<h3><li> Using Struct And Pointers </li></h3>
+<h2><li> Using Struct And Pointers </li></h2>
 
 <ul>
 
@@ -14,7 +14,7 @@ The repository will contain programs about Data Structure built on C plus plus l
 </ul>
 
 
-<h3><li> Using Class  </li></h3>
+<h2><li> Using Class  </li></h2>
 
 <ul>
 
