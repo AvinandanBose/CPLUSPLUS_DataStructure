@@ -31,8 +31,6 @@ public:
         {
             cout << a[i] << endl;
         }
-
-        free(a);
     }
 };
 
