@@ -24,7 +24,7 @@ The repository will contain programs about Data Structure built on C plus plus l
 
 <ul>
 
-<h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/Arrays_init_trav_class_dyn.cpp"> 1. Initialization and Traversal </a></h3>
+<h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/Arrays_init_trav_class_dyn.cpp"> 1. 𝑰𝒏𝒊𝒕𝒊𝒂𝒍𝒊𝒛𝒂𝒕𝒊𝒐𝒏 𝒐𝒇 𝑨𝒓𝒓𝒂𝒚 and 𝑻𝒓𝒂𝒗𝒆𝒓𝒔𝒂𝒍 𝒐𝒇 𝑨𝒓𝒓𝒂𝒚𝒔 </a></h3>
   
  ````Syntax
   
@@ -53,14 +53,14 @@ public:
       delete a[];
     }
 };
-  
-  
-  
-  
+    
 ````
 
 
 </ul>
+
+
+<h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/Arrays_Overriding_Of_ith_Array.cpp"> 2. 𝑶𝒗𝒆𝒓𝒓𝒊𝒅𝒊𝒏𝒈 𝒊𝒕𝒉 𝒆𝒍𝒆𝒎𝒆𝒏𝒕 </a></h3>
 </ul>
 
 </ul>
