@@ -20,6 +20,24 @@ The repository will contain programs about Data Structure built on C plus plus l
   
 <h3> 𝑪𝒂𝒏 𝒂𝒍𝒔𝒐 𝒃𝒆 𝒅𝒐𝒏𝒆 𝒕𝒉𝒓𝒐𝒖𝒈𝒉 𝒑𝒐𝒊𝒏𝒕𝒆𝒓: </h3>
 
+<ul>
+
+<h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/struct_array_insert_and_traversal1.cpp"> 1. 𝑰𝒏𝒊𝒕𝒊𝒂𝒍𝒊𝒛𝒂𝒕𝒊𝒐𝒏 𝒐𝒇 𝑨𝒓𝒓𝒂𝒚 and 𝑻𝒓𝒂𝒗𝒆𝒓𝒔𝒂𝒍 𝒐𝒇 𝑨𝒓𝒓𝒂𝒚𝒔(1) </a></h3>
+
+<h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/struct_array_insert_and_traversal2.cpp"> 1. 𝑰𝒏𝒊𝒕𝒊𝒂𝒍𝒊𝒛𝒂𝒕𝒊𝒐𝒏 𝒐𝒇 𝑨𝒓𝒓𝒂𝒚 and 𝑻𝒓𝒂𝒗𝒆𝒓𝒔𝒂𝒍 𝒐𝒇 𝑨𝒓𝒓𝒂𝒚𝒔(2) </a></h3>
+
+
+
+</ul>
+
+<h3>𝑪𝒂𝒏 𝒂𝒍𝒔𝒐 𝒃𝒆 𝒅𝒐𝒏𝒆 𝒕𝒉𝒓𝒐𝒖𝒈𝒉 𝒑𝒐𝒊𝒏𝒕𝒆𝒓𝒔 𝒂𝒏𝒅 𝒕𝒚𝒑𝒆𝒅𝒆𝒇</h3>
+
+<ul>
+
+<h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/struct_array_insert_and_traversal3.cpp"> 1. 𝑰𝒏𝒊𝒕𝒊𝒂𝒍𝒊𝒛𝒂𝒕𝒊𝒐𝒏 𝒐𝒇 𝑨𝒓𝒓𝒂𝒚 and 𝑻𝒓𝒂𝒗𝒆𝒓𝒔𝒂𝒍 𝒐𝒇 𝑨𝒓𝒓𝒂𝒚𝒔(3) </a></h3>
+
+</ul>
+
 
 </ul>
 
