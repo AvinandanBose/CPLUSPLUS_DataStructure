@@ -18,7 +18,7 @@ The repository will contain programs about Data Structure built on C plus plus l
   
 <h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/struct_array_insert_and_traversal.cpp"> 1. 𝑰𝒏𝒊𝒕𝒊𝒂𝒍𝒊𝒛𝒂𝒕𝒊𝒐𝒏 𝒐𝒇 𝑨𝒓𝒓𝒂𝒚 and 𝑻𝒓𝒂𝒗𝒆𝒓𝒔𝒂𝒍 𝒐𝒇 𝑨𝒓𝒓𝒂𝒚𝒔 </a></h3>
   
-<h3>  Can also be done through pointers: </h3>
+<h3> 𝑪𝒂𝒏 𝒂𝒍𝒔𝒐 𝒃𝒆 𝒅𝒐𝒏𝒆 𝒕𝒉𝒓𝒐𝒖𝒈𝒉 𝒑𝒐𝒊𝒏𝒕𝒆𝒓: </h3>
 
 
 </ul>
