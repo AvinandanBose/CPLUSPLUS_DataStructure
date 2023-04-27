@@ -9,37 +9,25 @@ private:
     int *a;
     int size;
 public:
-    Array(int size)
+    Array(int *a , int size) 
     {
-         this->size= size;
-        a = new int[size];
-        //Array Traversal
-        for (int i = 0; i < size; i++)
-        {
-            a[i] = i;
-        }
-    }
+        this->a = a;
+        this->size = size;
 
-    ~Array()
-    {
-        delete[] a;
-        cout << "Destructor called" << endl;
-    }
-
-    void print()
-    {
+        // Array Traversal
         for (int i = 0; i < size; i++)
         {
             cout << a[i] << endl;
         }
-
     }
 };
 
-int main()
-{
-    Array arr(5);
-    arr.print();
 
-    return 0;
-}
+    int main()
+    {
+
+    int myarr[] = {1,2,3,4,5};
+    Array arr(myarr,5);
+
+        return 0;
+    }
