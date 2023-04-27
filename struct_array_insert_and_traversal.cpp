@@ -12,21 +12,21 @@ struct Array array;
 
 int main(){
 
-    cout << "Enter the size of the array: " << endl;
-    cin >> array.size;
+   
+array.size = 5;
+array.a = (int *)malloc(array.size * sizeof(int));
 
-    array.a = (int*) malloc(array.size * sizeof(int));
+array.a[0] = 1;
+array.a[1] = 2;
+array.a[2] = 3;
+array.a[3] = 4;
+array.a[4] = 5;
 
-        for(int i = 0; i < array.size; i++){
-            cout << "Enter the element: " << endl;
-            cin >> array.a[i];
-        }               
+cout << "The array is: " << endl;
 
-
-    cout << "The array is: " << endl;
-
-        for(int i = 0; i < array.size; i++){
-            cout << array.a[i] << endl;
+for (int i = 0; i < array.size; i++)
+{
+    cout << array.a[i] << endl;
         }
 
         free(array.a);
