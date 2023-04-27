@@ -1,7 +1,7 @@
 # CPLUSPLUS-DataStructure
 The repository will contain programs about Data Structure built on C plus plus language.
 
-<h1> Arrays </h1>
+<h1> 1.Arrays </h1>
 
 <ul>
 
