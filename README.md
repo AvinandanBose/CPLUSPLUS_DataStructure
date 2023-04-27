@@ -64,6 +64,7 @@ public:
 <h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/Arrays_Overriding_Of_ith_Array.cpp"> 3.𝑰𝒏𝒔𝒆𝒓𝒕 𝑬𝒍𝒆𝒎𝒆𝒏𝒕 𝒊𝒏 𝑨𝒓𝒓𝒂𝒚 </a></h3>
 <h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/Arrays_Insert_Element_At_Position_In_Array.cpp"> 4.𝑰𝒏𝒔𝒆𝒓𝒕 𝑬𝒍𝒆𝒎𝒆𝒏𝒕 𝒂𝒕 𝒑𝒐𝒔𝒊𝒕𝒊𝒐𝒏 𝑰𝒏 𝒂𝒏 𝑨𝒓𝒓𝒂𝒚 </a></h3>
 <h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/Arrays_Delete_Element_At_Position_In_Array.cpp"> 5.𝑫𝒆𝒍𝒆𝒕𝒆 𝑬𝒍𝒆𝒎𝒆𝒏𝒕 𝒂𝒕 𝒑𝒐𝒔𝒊𝒕𝒊𝒐𝒏 𝑰𝒏 𝒂𝒏 𝑨𝒓𝒓𝒂𝒚 </a></h3>
+<h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/Arrays_Two_Dimensional.cpp"> 6.𝑻𝒘𝒐 − 𝑫𝒊𝒎𝒆𝒏𝒔𝒊𝒐𝒏𝒂𝒍 𝑨𝒓𝒓𝒂𝒚</a></h3>
 
 
 
