@@ -13,29 +13,31 @@ public:
         this->a = a;
         this->size = size;
 
-        // Inserting an element in an array
+        // Inserting the element in an array
 
-        cout << "Enter the element we want to insert: " << endl;
+        cout << "Enter the elements we want to insert: " << endl;
 
         for (int i = 0; i < size; i++)
         {
             cin >> a[i];
         }
 
+        // Enter the position where you want to delete the element
         int pos;
         cout << "Enter the position where you want to delete the element: " << endl;
         cin >> pos;
 
        
-
+        //Delete the element from array at a position
         cout << "Delete the element from array at a position: " << endl;
 
         for (int i = pos - 1; i < size-1; i++)
         {
             a[i] = a[i + 1];
         }
-
         size = size - 1;
+
+        // Array Traversals
 
         cout << "The array after deletion is: " << endl;
 
