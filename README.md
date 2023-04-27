@@ -26,40 +26,6 @@ The repository will contain programs about Data Structure built on C plus plus l
 
 <h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/Arrays_init_trav_class_dyn.cpp"> 1. 𝑰𝒏𝒊𝒕𝒊𝒂𝒍𝒊𝒛𝒂𝒕𝒊𝒐𝒏 𝒐𝒇 𝑨𝒓𝒓𝒂𝒚 and 𝑻𝒓𝒂𝒗𝒆𝒓𝒔𝒂𝒍 𝒐𝒇 𝑨𝒓𝒓𝒂𝒚𝒔 </a></h3>
   
- ````Syntax
-  
-  delete is for new keyword.
-  
-  Description:
-  
-  The delete operator is used to delete the pointer, 
-  which is either allocated using new operator 
-  or a NULL pointer.
-  
-  
-  Syntax:
-  
-class Array
-{
-  
-private:
-  int *a;
-public:
-  Array()
-    {
-      a = new int[5];
-    }
-  ~Array(){
-      delete a[];
-    }
-};
-    
-````
-
-
-</ul>
-
-
 <h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/Arrays_Overriding_Of_ith_Array.cpp"> 2. 𝑶𝒗𝒆𝒓𝒓𝒊𝒅𝒊𝒏𝒈 𝒊𝒕𝒉 𝒆𝒍𝒆𝒎𝒆𝒏𝒕 </a></h3>
 <h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/Arrays_Overriding_Of_ith_Array.cpp"> 3.𝑰𝒏𝒔𝒆𝒓𝒕 𝑬𝒍𝒆𝒎𝒆𝒏𝒕 𝒊𝒏 𝑨𝒓𝒓𝒂𝒚 </a></h3>
 <h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/Arrays_Insert_Element_At_Position_In_Array.cpp"> 4.𝑰𝒏𝒔𝒆𝒓𝒕 𝑬𝒍𝒆𝒎𝒆𝒏𝒕 𝒂𝒕 𝒑𝒐𝒔𝒊𝒕𝒊𝒐𝒏 𝑰𝒏 𝒂𝒏 𝑨𝒓𝒓𝒂𝒚 </a></h3>
@@ -67,10 +33,10 @@ public:
 <h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/Arrays_Two_Dimensional.cpp"> 6.𝑻𝒘𝒐 − 𝑫𝒊𝒎𝒆𝒏𝒔𝒊𝒐𝒏𝒂𝒍 𝑨𝒓𝒓𝒂𝒚</a></h3>
 <h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/Arrays_Three_Dimensional.cpp"> 7.𝑻𝒉𝒓𝒆𝒆 − 𝑫𝒊𝒎𝒆𝒏𝒔𝒊𝒐𝒏𝒂𝒍 𝑨𝒓𝒓𝒂𝒚</a></h3>
 
-
-
-
 </ul>
+
+
+
 
 </ul>
 
