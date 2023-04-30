@@ -45,6 +45,13 @@ public:
             }
         }
     }
+    
+     ~Array()
+    {
+        delete[] a;
+        cout << "Array deleted" << endl;
+        cout << "Destructor is called!" << endl;
+    }
 };
 
 int main()
