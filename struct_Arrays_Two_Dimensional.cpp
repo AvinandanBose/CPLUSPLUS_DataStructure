@@ -60,13 +60,13 @@ int main()
 /****************************************************************/
 // Freeing the memory
 
-// Freeing the memory for the columns
+// Freeing the subarray for the rows
     for (int i = 0; i < arr->row; i++)
     {
         free(arr->a[i]);
     }
 
-// Freeing the memory for the rows
+// Freeing the array of pointers
     free(arr->a);
 
 /****************************************************************/
