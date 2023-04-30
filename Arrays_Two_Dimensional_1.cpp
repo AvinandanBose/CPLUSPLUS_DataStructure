@@ -70,13 +70,14 @@ public:
     cout << "Destructor is called!" << endl;
 
     // Deallocating the memory
-    // Deleting the columns
+    
+    // Free each sub-array (row)
     for (int i = 0; i < row; i++)
     {
             delete[] a[i];
-        }
+     }
         
-        //Deleting the rows
+        //Free the array of pointers
         delete[] a;
         
     }
