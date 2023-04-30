@@ -46,6 +46,9 @@ The repository will contain programs about Data Structure built on C plus plus l
 <h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/struct_Arrays_Deleting_Element_At_A_Position_In_The_Array.cpp"> 5.𝑫𝒆𝒍𝒆𝒕𝒆 𝑬𝒍𝒆𝒎𝒆𝒏𝒕 𝒂𝒕 𝒑𝒐𝒔𝒊𝒕𝒊𝒐𝒏 𝑰𝒏 𝒂𝒏 𝑨𝒓𝒓𝒂𝒚 </a> </h3>
 
 <h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/struct_Arrays_Two_Dimensional.cpp"> 6.𝑻𝒘𝒐 − 𝑫𝒊𝒎𝒆𝒏𝒔𝒊𝒐𝒏𝒂𝒍 𝑨𝒓𝒓𝒂𝒚 </a> </h3>
+<h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/struct_Arrays_Three_Dimensional.cpp"> 7.𝑻𝒉𝒓𝒆𝒆 − 𝑫𝒊𝒎𝒆𝒏𝒔𝒊𝒐𝒏𝒂𝒍 𝑨𝒓𝒓𝒂𝒚 </a> </h3>
+
+
   
 
 
