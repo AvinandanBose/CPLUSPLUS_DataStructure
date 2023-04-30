@@ -81,7 +81,9 @@ public:
         cout << "Destructor is called!" << endl;
 
 
-        // Deallocating memory for the columns
+        // Deallocating memory 
+        
+        //Free each sub-array for the pages
         for (int i = 0; i < page; i++)
         {
             for (int j = 0; j < row; j++)
@@ -90,13 +92,13 @@ public:
             }
         }
 
-        // Deallocating memory for the rows
-        for (int i = 0; i < page; i++)
+        // Free each sub-array for the row
+        for (int i = 0; i < row; i++)
         {
             delete[] a[i];
         }
 
-        // Deallocating memory for the pages
+        //Free the array of pointers
         delete[] a;
 
        
