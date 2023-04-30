@@ -27,9 +27,9 @@ cout << "The array is: " << endl;
 for (int i = 0; i < array.size; i++)
 {
     cout << array.a[i] << endl;
-        }
+}
 
-        free(array.a);
+  free(array.a);
 }
 
 
