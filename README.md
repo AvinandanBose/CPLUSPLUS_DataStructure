@@ -15,6 +15,9 @@ The repository will contain programs about Data Structure built on C plus plus l
 
 <h3><ins>𝑵𝒐𝒕𝒆</ins>: 𝒊𝒏𝒕 𝒎𝒂𝒊𝒏(𝒊𝒏𝒕 𝒂𝒓𝒈_𝒄𝒐𝒖𝒏𝒕, 𝒄𝒉𝒂𝒓 **𝒂𝒓𝒈_𝒗𝒆𝒄𝒕𝒐𝒓, 𝒄𝒉𝒂𝒓 **𝒆𝒏𝒗_𝒑𝒐𝒊𝒏𝒕𝒆𝒓) 𝒄𝒂𝒏 𝒂𝒍𝒔𝒐 𝒃𝒆 𝒘𝒓𝒊𝒕𝒕𝒆𝒏 𝒂𝒔:</h3>
 
+<h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/static_array_traversal1.cpp"> 1. 𝑰𝒏𝒊𝒕𝒊𝒂𝒍𝒊𝒛𝒂𝒕𝒊𝒐𝒏 𝒐𝒇 𝑨𝒓𝒓𝒂𝒚 and 𝑻𝒓𝒂𝒗𝒆𝒓𝒔𝒂𝒍 𝒐𝒇 𝑨𝒓𝒓𝒂𝒚𝒔(2) </a></h3>
+
+<h3><ins>𝑻𝒉𝒂𝒕 𝒊𝒔:</ins> 𝒊𝒏𝒕 𝒎𝒂𝒊𝒏(𝒊𝒏𝒕 𝒂𝒓𝒈_𝒄𝒐𝒖𝒏𝒕, 𝒄𝒉𝒂𝒓 **𝒂𝒓𝒈_𝒗𝒆𝒄𝒕𝒐𝒓, 𝒄𝒉𝒂𝒓 **𝒆𝒏𝒗_𝒑𝒐𝒊𝒏𝒕𝒆𝒓) 𝒄𝒂𝒏 𝒂𝒍𝒔𝒐 𝒃𝒆 𝒘𝒓𝒊𝒕𝒕𝒆𝒏 𝒂𝒔: 𝒊𝒏𝒕 𝒎𝒂𝒊𝒏(𝒊𝒏𝒕 𝒂𝒓𝒈𝒄, 𝒄𝒉𝒂𝒓 *𝒂𝒓𝒈𝒗[], 𝒄𝒉𝒂𝒓 *𝒆𝒏𝒗𝒑[]) → 𝑻𝒉𝒊𝒔 𝒕𝒉𝒆 𝒆𝒙𝒂𝒄𝒕 𝒆𝒙𝒕𝒆𝒏𝒔𝒊𝒐𝒏 𝒐𝒇 𝒎𝒂𝒊𝒏 𝒇𝒖𝒏𝒄𝒕𝒊𝒐𝒏.</h3>
 
 
 
