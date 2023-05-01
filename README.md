@@ -48,9 +48,12 @@ The repository will contain programs about Data Structure built on C plus plus l
 <h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/struct_Arrays_Two_Dimensional.cpp"> 6.𝑻𝒘𝒐 − 𝑫𝒊𝒎𝒆𝒏𝒔𝒊𝒐𝒏𝒂𝒍 𝑨𝒓𝒓𝒂𝒚 </a> </h3>
 <h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/struct_Arrays_Three_Dimensional.cpp"> 7.𝑻𝒉𝒓𝒆𝒆 − 𝑫𝒊𝒎𝒆𝒏𝒔𝒊𝒐𝒏𝒂𝒍 𝑨𝒓𝒓𝒂𝒚 </a> </h3>
 
-
-  
-
+<h3>𝑻𝒉𝒆 𝒇𝒓𝒆𝒆𝒊𝒏𝒈 𝒐𝒇 𝒎𝒆𝒎𝒐𝒓𝒚 𝒄𝒂𝒏 𝒂𝒍𝒔𝒐 𝒃𝒆 𝒅𝒐𝒏𝒆 𝒂𝒔:</h3>
+ <ul>
+   <h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/struct_Arrays_Two_Dimensional1.cpp"> 1.𝑻𝒘𝒐 − 𝑫𝒊𝒎𝒆𝒏𝒔𝒊𝒐𝒏𝒂𝒍 𝑨𝒓𝒓𝒂𝒚 </a> </h3>
+   <h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/struct_Arrays_Three_Dimensional1.cpp"> 2.𝑻𝒉𝒓𝒆𝒆 − 𝑫𝒊𝒎𝒆𝒏𝒔𝒊𝒐𝒏𝒂𝒍 𝑨𝒓𝒓𝒂𝒚 </a> </h3>
+</ul>
+<h3><ins>𝑵𝒐𝒕𝒆</ins>: 𝑰𝒏 𝒃𝒐𝒕𝒉 𝒕𝒉𝒆 𝒘𝒂𝒚𝒔 𝒎𝒆𝒎𝒐𝒓𝒚 𝒄𝒂𝒏 𝒃𝒆 𝒇𝒓𝒆𝒆𝒅, 𝒕𝒉𝒂𝒕 𝒇𝒓𝒆𝒆(𝒂𝒓𝒓->𝒂) 𝒐𝒓 𝒇𝒓𝒆𝒆𝒊𝒏𝒈 𝒆𝒂𝒄𝒉 𝒔𝒖𝒃 𝒂𝒓𝒓𝒂𝒚 𝒋𝒖𝒔𝒕 𝒍𝒊𝒌𝒆 𝒅𝒆𝒍𝒆𝒕𝒆 .𝑰𝒕 𝒎𝒂𝒊𝒏𝒍𝒚 𝒅𝒆𝒑𝒆𝒏𝒅𝒔 𝒐𝒏 𝒕𝒉𝒆 𝒇𝒂𝒄𝒕 𝒕𝒉𝒂𝒕 𝒉𝒐𝒘 𝒎𝒂𝒏𝒚 𝒑𝒐𝒊𝒏𝒕𝒆𝒓𝒔 𝒘𝒆 𝒂𝒓𝒆 𝒖𝒔𝒊𝒏𝒈.</h3>
 
 </ul>
 
