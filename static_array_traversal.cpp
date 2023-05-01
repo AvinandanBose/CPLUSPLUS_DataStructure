@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int main(int num_args, char **arg_strings)
+int main(int arg_count, char **arg_vector, char **env_pointer)
 {
    int arr[10]={1,2,3,4,5,6,7,8,9,10};
 
