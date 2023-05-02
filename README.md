@@ -42,6 +42,8 @@ The repository will contain programs about Data Structure built on C plus plus l
 
 <h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/static_array_inserting_elem_at_pos.cpp"> 4. 𝑰𝒏𝒔𝒆𝒓𝒕 𝑬𝒍𝒆𝒎𝒆𝒏𝒕 𝒂𝒕 𝒑𝒐𝒔𝒊𝒕𝒊𝒐𝒏 𝑰𝒏 𝒂𝒏 𝑨𝒓𝒓𝒂𝒚  </a> </h3>
 
+<h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/static_array_deleting_elem_at_pos.cpp"> 5. 𝑫𝒆𝒍𝒆𝒕𝒆 𝑬𝒍𝒆𝒎𝒆𝒏𝒕 𝒂𝒕 𝒑𝒐𝒔𝒊𝒕𝒊𝒐𝒏 𝑰𝒏 𝒂𝒏 𝑨𝒓𝒓𝒂𝒚  </a> </h3>
+
 
 
 </ul>
