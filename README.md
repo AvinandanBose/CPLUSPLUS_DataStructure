@@ -123,6 +123,55 @@ The repository will contain programs about Data Structure built on C plus plus l
 </ul>
 
 <hr style="color:black;background-color:black;height:2px">
+  
+<h1> 2.Stack </h1>
+  
+ <ul>
+
+<h2><li> 𝑺𝒕𝒂𝒄𝒌 𝒖𝒔𝒊𝒏𝒈 𝑺𝒕𝒂𝒕𝒊𝒄 𝑨𝒓𝒓𝒂𝒚 </li></h2>
+
+<ul>
+  
+<h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/Stack_StaticArray.cpp"> 𝑺𝒕𝒂𝒄𝒌 𝒖𝒔𝒊𝒏𝒈 𝑺𝒕𝒂𝒕𝒊𝒄 𝑨𝒓𝒓𝒂𝒚</a></h3>
+  
+</ul>
+   
+<h2><li> 𝑺𝒕𝒂𝒄𝒌 𝒖𝒔𝒊𝒏𝒈 𝑫𝒚𝒏𝒂𝒎𝒊𝒄 𝑨𝒓𝒓𝒂𝒚 (𝑴𝒂𝒍𝒍𝒐𝒄)  </li></h2>
+  
+ <ul>
+  
+<h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/StackOperation_MallocStruct.cpp"> 𝑺𝒕𝒂𝒄𝒌 𝒖𝒔𝒊𝒏𝒈 𝑫𝒚𝒏𝒂𝒎𝒊𝒄 𝑨𝒓𝒓𝒂𝒚 (𝑴𝒂𝒍𝒍𝒐𝒄)</a></h3>
+  
+</ul>
+   
+<h2><li> 𝑺𝒕𝒂𝒄𝒌 𝒖𝒔𝒊𝒏𝒈 𝑫𝒚𝒏𝒂𝒎𝒊𝒄 𝑨𝒓𝒓𝒂𝒚 (𝑴𝒂𝒍𝒍𝒐𝒄) 𝒉𝒂𝒗𝒊𝒏𝒈 𝑨𝒎𝒐𝒓𝒕𝒊𝒛𝒆𝒅 𝑻𝒊𝒎𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 </li></h2>
+   
+<ul>
+
+<h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/AmortizedStackOperation.cpp"> 𝑺𝒕𝒂𝒄𝒌 𝒖𝒔𝒊𝒏𝒈 𝑫𝒚𝒏𝒂𝒎𝒊𝒄 𝑨𝒓𝒓𝒂𝒚 (𝑴𝒂𝒍𝒍𝒐𝒄) 𝒉𝒂𝒗𝒊𝒏𝒈 𝑨𝒎𝒐𝒓𝒕𝒊𝒛𝒆𝒅 𝑻𝒊𝒎𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 </a></h3>
+ 
+</ul>
+   
+<h2><li> 𝑺𝒕𝒂𝒄𝒌 𝒖𝒔𝒊𝒏𝒈 𝑫𝒚𝒏𝒂𝒎𝒊𝒄 𝑨𝒓𝒓𝒂𝒚 (𝒖𝒔𝒊𝒏𝒈 𝒄𝒍𝒂𝒔𝒔 𝒂𝒏𝒅 𝒏𝒆𝒘 𝒐𝒑𝒆𝒓𝒂𝒕𝒐𝒓)  </li></h2>
+   
+<ul>
+  
+<h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/StackOperation_WithClass.cpp"> 𝑺𝒕𝒂𝒄𝒌 𝒖𝒔𝒊𝒏𝒈 𝑫𝒚𝒏𝒂𝒎𝒊𝒄 𝑨𝒓𝒓𝒂𝒚 (𝒖𝒔𝒊𝒏𝒈 𝒄𝒍𝒂𝒔𝒔 𝒂𝒏𝒅 𝒏𝒆𝒘 𝒐𝒑𝒆𝒓𝒂𝒕𝒐𝒓)  </a></h3> 
+  
+</ul>
+   
+<h2><li> 𝑺𝒕𝒂𝒄𝒌 𝒖𝒔𝒊𝒏𝒈 𝑫𝒚𝒏𝒂𝒎𝒊𝒄 𝑨𝒓𝒓𝒂𝒚 (𝒖𝒔𝒊𝒏𝒈 𝒄𝒍𝒂𝒔𝒔 𝒂𝒏𝒅 𝒏𝒆𝒘 𝒐𝒑𝒆𝒓𝒂𝒕𝒐𝒓) 𝒉𝒂𝒗𝒊𝒏𝒈 𝑨𝒎𝒐𝒓𝒕𝒊𝒛𝒆𝒅 𝑻𝒊𝒎𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚  </li></h2>
+   
+<ul>
+  
+<h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/AmortizedStackOperation_WithClass.cpp"> 𝑺𝒕𝒂𝒄𝒌 𝒖𝒔𝒊𝒏𝒈 𝑫𝒚𝒏𝒂𝒎𝒊𝒄 𝑨𝒓𝒓𝒂𝒚 (𝒖𝒔𝒊𝒏𝒈 𝒄𝒍𝒂𝒔𝒔 𝒂𝒏𝒅 𝒏𝒆𝒘 𝒐𝒑𝒆𝒓𝒂𝒕𝒐𝒓)  </a></h3> 
+  
+</ul>
+   
+</ul>
+ 
+ <hr style="color:black;background-color:black;height:2px">
+
 
 
 
