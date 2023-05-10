@@ -128,7 +128,9 @@ int main()
         cout << "3. Pop" << endl;
         cout << "4. Peek" << endl;
         cout << "5. Traverse" << endl;
-        cout << "6. Exit" << endl;
+        cout << "6. IsEmpty" << endl;
+        cout << "7. IsFull" << endl;
+        cout << "8. Exit" << endl;
 
         cout << "Enter your choice" << endl;
         cin >> choice;
@@ -179,6 +181,28 @@ int main()
             break;
 
         case 6:
+            if (isEmpty(st))
+            {
+                cout << "Stack is Empty" << endl;
+            }
+            else
+            {
+                cout << "Stack is not Empty" << endl;
+            }
+            break;
+
+        case 7:
+            if (isFull(st))
+            {
+                cout << "Stack is Full" << endl;
+            }
+            else
+            {
+                cout << "Stack is not Full" << endl;
+            }
+            break;
+
+        case 8:
             deleteStack(&st);
             break;
 
