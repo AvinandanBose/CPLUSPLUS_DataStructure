@@ -172,6 +172,35 @@ The repository will contain programs about Data Structure built on C plus plus l
  
  <hr style="color:black;background-color:black;height:2px">
 
+<h1></h1>
+<h1>  𝟑.𝑷𝑶𝑷 𝑷𝑼𝑺𝑯 𝑰𝑵 𝑺𝑻𝑨𝑪𝑲 𝑨𝑻 𝑮𝑰𝑽𝑬𝑵 𝑷𝑶𝑺𝑻𝑰𝑶𝑵(𝑰𝒎𝒑𝒍𝒆𝒎𝒆𝒏𝒕𝒆𝒅 𝑻𝒉𝒓𝒐𝒖𝒈𝒉 𝑨𝒓𝒓𝒂𝒚)</h1>
+  
+<ul>
+  
+<h2><li> 𝑷𝑶𝑷 𝑷𝑼𝑺𝑯 𝑰𝑵 𝑺𝑻𝑨𝑪𝑲 𝑨𝑻 𝑮𝑰𝑽𝑬𝑵 𝑷𝑶𝑺𝑻𝑰𝑶𝑵 𝑼𝑺𝑰𝑵𝑮 𝑺𝑻𝑨𝑻𝑰𝑪 𝑨𝑹𝑹𝑨𝒀   </li></h2>  
+  
+<ul>
+  
+ <h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/PUSHPOPAtAPositioninStack%5BStatic%5D.cpp"> 𝑷𝑶𝑷 𝑷𝑼𝑺𝑯 𝑰𝑵 𝑺𝑻𝑨𝑪𝑲 𝑨𝑻 𝑮𝑰𝑽𝑬𝑵 𝑷𝑶𝑺𝑻𝑰𝑶𝑵 𝑼𝑺𝑰𝑵𝑮 𝑺𝑻𝑨𝑻𝑰𝑪 𝑨𝑹𝑹𝑨𝒀  </a></h3>  
+  
+</ul>
+  
+<h2><li> 𝑷𝑶𝑷 𝑷𝑼𝑺𝑯 𝑰𝑵 𝑺𝑻𝑨𝑪𝑲 𝑨𝑻 𝑮𝑰𝑽𝑬𝑵 𝑷𝑶𝑺𝑻𝑰𝑶𝑵 𝑼𝑺𝑰𝑵𝑮 𝑫𝒀𝑵𝑨𝑴𝑰𝑪 𝑨𝑹𝑹𝑨𝒀 (𝑼𝑺𝑰𝑵𝑮 𝑴𝑨𝑳𝑳𝑶𝑪)   </li></h2>  
+  
+<ul>
+  
+  <h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/PUSHPOPAtAPositioninStack.cpp"> 𝑷𝑶𝑷 𝑷𝑼𝑺𝑯 𝑰𝑵 𝑺𝑻𝑨𝑪𝑲 𝑨𝑻 𝑮𝑰𝑽𝑬𝑵 𝑷𝑶𝑺𝑻𝑰𝑶𝑵 𝑼𝑺𝑰𝑵𝑮 𝑫𝒀𝑵𝑨𝑴𝑰𝑪 𝑨𝑹𝑹𝑨𝒀 (𝑼𝑺𝑰𝑵𝑮 𝑴𝑨𝑳𝑳𝑶𝑪)   </a></h3> 
+  
+</ul>
+  
+<h2><li> 𝑷𝑶𝑷 𝑷𝑼𝑺𝑯 𝑰𝑵 𝑺𝑻𝑨𝑪𝑲 𝑨𝑻 𝑮𝑰𝑽𝑬𝑵 𝑷𝑶𝑺𝑻𝑰𝑶𝑵 𝑼𝑺𝑰𝑵𝑮 𝑫𝒀𝑵𝑨𝑴𝑰𝑪 𝑨𝑹𝑹𝑨𝒀 (𝑼𝑺𝑰𝑵𝑮 𝑪𝑳𝑨𝑺𝑺)   </li></h2>  
+  
+<ul>
+  
+  <h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/PUSHPOPAtAPositioninStack%5BClass%5D.cpp"> 𝑷𝑶𝑷 𝑷𝑼𝑺𝑯 𝑰𝑵 𝑺𝑻𝑨𝑪𝑲 𝑨𝑻 𝑮𝑰𝑽𝑬𝑵 𝑷𝑶𝑺𝑻𝑰𝑶𝑵 𝑼𝑺𝑰𝑵𝑮 𝑫𝒀𝑵𝑨𝑴𝑰𝑪 𝑨𝑹𝑹𝑨𝒀 (𝑼𝑺𝑰𝑵𝑮 𝑪𝑳𝑨𝑺𝑺)  </a></h3> 
+  
+</ul>
+  
+</ul>
 
-
-
+ <hr style="color:black;background-color:black;height:2px">
