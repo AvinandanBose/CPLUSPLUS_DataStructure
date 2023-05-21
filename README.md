@@ -204,3 +204,17 @@ The repository will contain programs about Data Structure built on C plus plus l
 </ul>
 
  <hr style="color:black;background-color:black;height:2px">
+  
+
+  <h1></h1>
+<h1>  𝟒.𝑰𝒏𝒇𝒊𝒙 𝒕𝒐 𝑷𝒐𝒔𝒕𝒇𝒊𝒙 𝒄𝒐𝒏𝒗𝒆𝒓𝒔𝒊𝒐𝒏</h1>
+  
+ <ul>
+   
+<h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/proritychecker.cpp"> 𝑷𝒓𝒊𝒐𝒓𝒊𝒕𝒚 𝑪𝒉𝒆𝒄𝒌𝒆𝒓 (𝒖𝒔𝒊𝒏𝒈 𝑰𝒇-𝑬𝒍𝒔𝒆 𝒔𝒕𝒂𝒕𝒆𝒎𝒆𝒏𝒕)  </a></h3>  
+ 
+<h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/proritycheckerthroughSwitch.cpp"> 𝑷𝒓𝒊𝒐𝒓𝒊𝒕𝒚 𝑪𝒉𝒆𝒄𝒌𝒆𝒓 (𝒖𝒔𝒊𝒏𝒈 𝑺𝒘𝒊𝒕𝒄𝒉-𝑪𝒂𝒔𝒆 𝒔𝒕𝒂𝒕𝒆𝒎𝒆𝒏𝒕)  </a></h3> 
+  
+ </ul>
+  
+  <hr style="color:black;background-color:black;height:2px">
