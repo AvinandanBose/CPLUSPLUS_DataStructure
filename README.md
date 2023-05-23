@@ -215,9 +215,19 @@ The repository will contain programs about Data Structure built on C plus plus l
    
 <ul>
    
-<h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/proritychecker.cpp"> 𝑷𝒓𝒊𝒐𝒓𝒊𝒕𝒚 𝑪𝒉𝒆𝒄𝒌𝒆𝒓 (𝒖𝒔𝒊𝒏𝒈 𝑰𝒇-𝑬𝒍𝒔𝒆 𝒔𝒕𝒂𝒕𝒆𝒎𝒆𝒏𝒕)  </a></h3>  
+<h3><li><a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/proritychecker.cpp"> 𝑷𝒓𝒊𝒐𝒓𝒊𝒕𝒚 𝑪𝒉𝒆𝒄𝒌𝒆𝒓 (𝒖𝒔𝒊𝒏𝒈 𝑰𝒇-𝑬𝒍𝒔𝒆 𝒔𝒕𝒂𝒕𝒆𝒎𝒆𝒏𝒕)  </a></li></h3>  
  
-<h3> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/proritycheckerthroughSwitch.cpp"> 𝑷𝒓𝒊𝒐𝒓𝒊𝒕𝒚 𝑪𝒉𝒆𝒄𝒌𝒆𝒓 (𝒖𝒔𝒊𝒏𝒈 𝑺𝒘𝒊𝒕𝒄𝒉-𝑪𝒂𝒔𝒆 𝒔𝒕𝒂𝒕𝒆𝒎𝒆𝒏𝒕)  </a></h3>
+<h3><li> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/proritycheckerthroughSwitch.cpp"> 𝑷𝒓𝒊𝒐𝒓𝒊𝒕𝒚 𝑪𝒉𝒆𝒄𝒌𝒆𝒓 (𝒖𝒔𝒊𝒏𝒈 𝑺𝒘𝒊𝒕𝒄𝒉-𝑪𝒂𝒔𝒆 𝒔𝒕𝒂𝒕𝒆𝒎𝒆𝒏𝒕)  </a></li></h3>
+   
+</ul>
+  
+<h2><li>𝑰𝒏𝒇𝒊𝒙 𝒕𝒐 𝑷𝒐𝒔𝒕𝒇𝒊𝒙 𝒄𝒐𝒏𝒗𝒆𝒓𝒔𝒊𝒐𝒏  </li></h2>   
+  
+  <ul>
+   
+<h3><li> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/InfixToPostfix(static).cpp"> 𝑰𝒏𝒇𝒊𝒙 𝒕𝒐 𝑷𝒐𝒔𝒕𝒇𝒊𝒙 𝒄𝒐𝒏𝒗𝒆𝒓𝒔𝒊𝒐𝒏 (𝒖𝒔𝒊𝒏𝒈 𝑺𝒕𝒂𝒕𝒊𝒄 𝑨𝒓𝒓𝒂𝒚)  </a></li></h3> 
+<h3><li> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/InfixToPostfix(Malloc).cpp"> 𝑰𝒏𝒇𝒊𝒙 𝒕𝒐 𝑷𝒐𝒔𝒕𝒇𝒊𝒙 𝒄𝒐𝒏𝒗𝒆𝒓𝒔𝒊𝒐𝒏 (𝒖𝒔𝒊𝒏𝒈 𝑴𝒂𝒍𝒍𝒐𝒄(𝑫𝒚𝒏𝒂𝒎𝒊𝒄))  </a></li></h3>
+<h3><li> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/InfixToPostfix(Class).cpp"> 𝑰𝒏𝒇𝒊𝒙 𝒕𝒐 𝑷𝒐𝒔𝒕𝒇𝒊𝒙 𝒄𝒐𝒏𝒗𝒆𝒓𝒔𝒊𝒐𝒏 (𝒖𝒔𝒊𝒏𝒈 𝑪𝒍𝒂𝒔𝒔(𝑫𝒚𝒏𝒂𝒎𝒊𝒄))  </a></li></h3>
    
 </ul>
   
