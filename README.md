@@ -225,7 +225,20 @@ The repository will contain programs about Data Structure built on C plus plus l
   
   <ul>
    
-<h3><li> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/InfixToPostfix(static).cpp"> 𝑰𝒏𝒇𝒊𝒙 𝒕𝒐 𝑷𝒐𝒔𝒕𝒇𝒊𝒙 𝒄𝒐𝒏𝒗𝒆𝒓𝒔𝒊𝒐𝒏 (𝒖𝒔𝒊𝒏𝒈 𝑺𝒕𝒂𝒕𝒊𝒄 𝑨𝒓𝒓𝒂𝒚)  </a></li></h3> 
+<h3><li> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/InfixToPostfix(static).cpp"> 𝑰𝒏𝒇𝒊𝒙 𝒕𝒐 𝑷𝒐𝒔𝒕𝒇𝒊𝒙 𝒄𝒐𝒏𝒗𝒆𝒓𝒔𝒊𝒐𝒏 (𝒖𝒔𝒊𝒏𝒈 𝑺𝒕𝒂𝒕𝒊𝒄 𝑨𝒓𝒓𝒂𝒚)  </a></li></h3>
+ 
+ <ul>
+   
+<h3><li> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/InfixToPostfix(static)type2.cpp"> 𝑰𝒏𝒇𝒊𝒙 𝒕𝒐 𝑷𝒐𝒔𝒕𝒇𝒊𝒙 𝒄𝒐𝒏𝒗𝒆𝒓𝒔𝒊𝒐𝒏 (𝒖𝒔𝒊𝒏𝒈 𝑺𝒕𝒂𝒕𝒊𝒄 𝑨𝒓𝒓𝒂𝒚-𝑻𝒚𝒑𝒆 𝟐)  </a></li></h3>  
+   
+<h3><ins>𝑵𝒐𝒕𝒆</ins>: 𝒊𝒔𝒂𝒍𝒏𝒖𝒎() 𝒊𝒔 𝒂 𝒇𝒖𝒏𝒄𝒕𝒊𝒐𝒏 𝒐𝒇
+𝒄𝒕𝒚𝒑𝒆. 𝒉 𝒉𝒆𝒂𝒅𝒆𝒓 𝒇𝒊𝒍𝒆 𝒇𝒐𝒓 𝑪 𝒂𝒍𝒔𝒐 𝒑𝒓𝒆𝒔𝒆𝒏𝒕 𝒊𝒏
+𝒄𝒄𝒕𝒚𝒑𝒆 𝒇𝒊𝒍𝒆 𝒇𝒐𝒓 𝑪 + +, 𝒄𝒉𝒆𝒄𝒌𝒔
+𝒂𝒍𝒑𝒉𝒂𝒃𝒆𝒕𝒔(𝒂 − 𝒛, 𝑨 − 𝒁)𝒂𝒏𝒅
+𝒏𝒖𝒎𝒃𝒆𝒓𝒔(𝟎 − 𝟗) 𝒕𝒐𝒈𝒆𝒕𝒉𝒆𝒓 𝒌𝒏𝒐𝒘𝒏 𝒂𝒔 "𝑨𝒍𝒑𝒉𝒂-𝑵𝒖𝒎𝒆𝒓𝒊𝒄" 𝒊𝒔 𝒖𝒔𝒆𝒅 𝒉𝒆𝒓𝒆.</h3>   
+   
+ </ul>   
+    
 <h3><li> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/InfixToPostfix(Malloc).cpp"> 𝑰𝒏𝒇𝒊𝒙 𝒕𝒐 𝑷𝒐𝒔𝒕𝒇𝒊𝒙 𝒄𝒐𝒏𝒗𝒆𝒓𝒔𝒊𝒐𝒏 (𝒖𝒔𝒊𝒏𝒈 𝑴𝒂𝒍𝒍𝒐𝒄(𝑫𝒚𝒏𝒂𝒎𝒊𝒄))  </a></li></h3>
 <h3><li> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/InfixToPostfix(Class).cpp"> 𝑰𝒏𝒇𝒊𝒙 𝒕𝒐 𝑷𝒐𝒔𝒕𝒇𝒊𝒙 𝒄𝒐𝒏𝒗𝒆𝒓𝒔𝒊𝒐𝒏 (𝒖𝒔𝒊𝒏𝒈 𝑪𝒍𝒂𝒔𝒔(𝑫𝒚𝒏𝒂𝒎𝒊𝒄))  </a></li></h3>
    
