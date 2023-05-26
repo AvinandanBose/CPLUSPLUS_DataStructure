@@ -244,6 +244,36 @@ The repository will contain programs about Data Structure built on C plus plus l
    
 </ul>
   
+  
+<h2><li> 𝑷𝒐𝒔𝒕𝒇𝒊𝒙 𝑬𝒗𝒂𝒍𝒖𝒂𝒕𝒊𝒐𝒏  </li></h2>   
+  
+ <ul>
+   
+ <h3><li> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/PostfixEvaluation(Static).cpp "> 𝑷𝒐𝒔𝒕𝒇𝒊𝒙 𝑬𝒗𝒂𝒍𝒖𝒂𝒕𝒊𝒐𝒏 (𝒖𝒔𝒊𝒏𝒈 𝑺𝒕𝒂𝒕𝒊𝒄 𝑨𝒓𝒓𝒂𝒚)  </a></li></h3>
+   
+ <ul>
+ 
+<h3><li> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/PostfixEvaluation(StaticType2).cpp ">  𝑷𝒐𝒔𝒕𝒇𝒊𝒙 𝑬𝒗𝒂𝒍𝒖𝒂𝒕𝒊𝒐𝒏 (𝒖𝒔𝒊𝒏𝒈 𝑺𝒕𝒂𝒕𝒊𝒄 𝑨𝒓𝒓𝒂𝒚-𝑻𝒚𝒑𝒆 𝟐)</a></li></h3> 
+   
+<h3><ins>𝑵𝒐𝒕𝒆</ins>: 𝒊𝒔𝑫𝒊𝒈𝒊𝒕() 𝒊𝒔 𝒂 𝒇𝒖𝒏𝒄𝒕𝒊𝒐𝒏 𝒐𝒇
+𝒄𝒕𝒚𝒑𝒆. 𝒉 𝒉𝒆𝒂𝒅𝒆𝒓 𝒇𝒊𝒍𝒆 𝒇𝒐𝒓 𝑪 𝒂𝒍𝒔𝒐 𝒑𝒓𝒆𝒔𝒆𝒏𝒕 𝒊𝒏
+𝒄𝒄𝒕𝒚𝒑𝒆 𝒇𝒊𝒍𝒆 𝒇𝒐𝒓 𝑪 + +, 𝒇𝒖𝒏𝒄𝒕𝒊𝒐𝒏 𝒄𝒉𝒆𝒄𝒌𝒔 𝒘𝒉𝒆𝒕𝒉𝒆𝒓 𝒕𝒉𝒆 𝒑𝒂𝒔𝒔𝒆𝒅 𝒄𝒉𝒂𝒓𝒂𝒄𝒕𝒆𝒓 𝒊𝒔 𝒂 𝒅𝒊𝒈𝒊𝒕 𝒐𝒓 𝒏𝒐𝒕.</h3>
+  
+<h3><ins>𝑵𝒐𝒕𝒆</ins>:  𝑺𝒊𝒎𝒊𝒍𝒂𝒓𝒍𝒚, 𝒎𝒂𝒕𝒉.𝒉 𝒉𝒆𝒂𝒅𝒆𝒓 𝒇𝒊𝒍𝒆 𝒖𝒔𝒆𝒅 𝒊𝒏 𝑪 𝒘𝒉𝒊𝒍𝒆 𝒄𝒎𝒂𝒕𝒉 𝒇𝒊𝒍𝒆 𝒖𝒔𝒆𝒅 𝒇𝒐𝒓 𝒄++.</h3>    
+   
+ </ul>  
+   
+   
+<h3><li> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/PostfixEvaluation(Dynamic%20Using%20Malloc).cpp">  𝑷𝒐𝒔𝒕𝒇𝒊𝒙 𝑬𝒗𝒂𝒍𝒖𝒂𝒕𝒊𝒐𝒏 (𝒖𝒔𝒊𝒏𝒈 𝑴𝒂𝒍𝒍𝒐𝒄(𝑫𝒚𝒏𝒂𝒎𝒊𝒄))</a></li></h3>  
+   
+<h3><li> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/PostfixEvaluation(WithClass).cpp">  𝑷𝒐𝒔𝒕𝒇𝒊𝒙 𝑬𝒗𝒂𝒍𝒖𝒂𝒕𝒊𝒐𝒏 (𝒖𝒔𝒊𝒏𝒈 𝑪𝒍𝒂𝒔𝒔(𝑫𝒚𝒏𝒂𝒎𝒊𝒄))</a></li></h3>    
+   
+
+   
+ </ul>  
+  
+ 
+  
 </ul>
   
   <hr style="color:black;background-color:black;height:2px">
