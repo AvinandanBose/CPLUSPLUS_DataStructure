@@ -106,7 +106,7 @@ void InfixToPostfix(char infix[], char postfix[])
             }
             else
             {
-                while (pre(ch) <= pre(peek()) && top != -1 && peek() != '(' && peek() != ')')
+                while (pre(ch) <= pre(peek()) && top != -1 && ch != '(' && ch != ')')
                 {
                     postfix[j] = pop();
                     j++;

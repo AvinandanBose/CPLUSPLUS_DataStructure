@@ -95,8 +95,11 @@ int isOperand(char x)
     return 1;
 }
 
+
+
 char *InToPost(char *infix)
 {
+    
     Stack st;
     int len = strlen(infix);                                  // Calculate the length of the string
     char *postfix = (char *)malloc((len + 1) * sizeof(char)); // Allocate the memory for postfix string
@@ -131,7 +134,7 @@ char *InToPost(char *infix)
             }
             else
             {
-                while (pre(infix[i]) <= pre(st.s[st.top]) && !isEmpty(st) && st.s[st.top] != '(' && st.s[st.top] != ')')
+                while (pre(infix[i]) <= pre(st.s[st.top]) && !isEmpty(st) && infix[i] != '(' && infix[i] != ')')
                 {
 
                     postfix[j] = pop(&st);
