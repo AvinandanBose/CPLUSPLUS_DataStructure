@@ -139,7 +139,7 @@ public:
                 }
                 else
                 {
-                    while (precedence(infix[i]) <= precedence(st.peek()) && !st.isEmpty() && st.peek() != '(' && st.peek() != ')')
+                    while (precedence(infix[i]) <= precedence(st.peek()) && !st.isEmpty() && infix[i] != '(' && infix[i] != ')')
                     {
                         postfix[j] = st.pop();
                         j++;
