@@ -272,6 +272,26 @@ The repository will contain programs about Data Structure built on C plus plus l
    
  </ul>  
   
+  
+<h2><li> 𝑰𝒏𝒇𝒊𝒙 𝒕𝒐 𝑷𝒓𝒆𝒇𝒊𝒙 𝑪𝒐𝒏𝒗𝒆𝒓𝒔𝒊𝒐𝒏  </li></h2>   
+  
+  <ul>
+   
+<h3><li> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/InfixToPrefix(static).cpp"> 𝑰𝒏𝒇𝒊𝒙 𝒕𝒐 𝑷𝒓𝒆𝒇𝒊𝒙 𝑪𝒐𝒏𝒗𝒆𝒓𝒔𝒊𝒐𝒏 (𝒖𝒔𝒊𝒏𝒈 𝑺𝒕𝒂𝒕𝒊𝒄 𝑨𝒓𝒓𝒂𝒚)  </a></li></h3>
+ 
+ <ul>
+   
+<h3><li> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/InfixToPrefix(static)type2.cpp">  𝑰𝒏𝒇𝒊𝒙 𝒕𝒐 𝑷𝒓𝒆𝒇𝒊𝒙 𝑪𝒐𝒏𝒗𝒆𝒓𝒔𝒊𝒐𝒏 (𝒖𝒔𝒊𝒏𝒈 𝑺𝒕𝒂𝒕𝒊𝒄 𝑨𝒓𝒓𝒂𝒚-𝑻𝒚𝒑𝒆 𝟐)  </a></li></h3>  
+   
+<h3><ins>𝑵𝒐𝒕𝒆</ins>: 𝒊𝒔𝒂𝒍𝒏𝒖𝒎(),𝒊𝒔𝑫𝒊𝒈𝒊𝒕() 𝒇𝒖𝒏𝒄𝒕𝒊𝒐𝒏 𝒖𝒔𝒆𝒅 𝒂𝒍𝒐𝒏𝒈 𝒘𝒊𝒕𝒉 𝒔𝒕𝒓𝒊𝒏𝒈 , 𝒘𝒉𝒊𝒄𝒉 𝒓𝒆𝒑𝒓𝒆𝒔𝒆𝒏𝒕𝒔 𝒂𝒏 𝒂𝒓𝒓𝒂𝒚 𝒐𝒇 𝒄𝒉𝒂𝒓𝒂𝒄𝒕𝒆𝒓𝒔. 𝑨𝒏𝒅 𝒂𝒏𝒐𝒕𝒉𝒆𝒓 𝒇𝒖𝒏𝒄𝒕𝒊𝒐𝒏 𝒐𝒇 𝒄𝒔𝒕𝒓𝒊𝒏𝒈 𝒇𝒊𝒍𝒆 𝒕𝒚𝒑𝒆 𝒐𝒇 𝒄++ 𝒊.𝒆. 𝒑𝒖𝒔𝒉_𝒃𝒂𝒄𝒌() 𝒇𝒖𝒏𝒄𝒕𝒊𝒐𝒏 , 𝒘𝒉𝒊𝒄𝒉 𝒉𝒆𝒍𝒑𝒔 𝒕𝒐 𝒂𝒑𝒑𝒆𝒏𝒅 𝒔𝒊𝒏𝒈𝒍𝒆 𝒄𝒉𝒂𝒓𝒂𝒄𝒕𝒆𝒓 𝒂𝒕 𝒂 𝒕𝒊𝒎𝒆 𝒘𝒊𝒕𝒉 𝒕𝒊𝒎𝒆 𝒄𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 𝑶(1) 𝒊.𝒆. 𝒂𝒕 𝒂 𝒄𝒐𝒏𝒔𝒕𝒂𝒏𝒕 𝒕𝒊𝒎𝒆 .</h3>   
+   
+ </ul>   
+    
+<h3><li> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/InfixToPrefix(With%20Malloc).cpp"> 𝑰𝒏𝒇𝒊𝒙 𝒕𝒐 𝑷𝒓𝒆𝒇𝒊𝒙 𝒄𝒐𝒏𝒗𝒆𝒓𝒔𝒊𝒐𝒏 (𝒖𝒔𝒊𝒏𝒈 𝑴𝒂𝒍𝒍𝒐𝒄(𝑫𝒚𝒏𝒂𝒎𝒊𝒄))  </a></li></h3>
+<h3><li> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/InfixToPrefix(With%20Class).cpp"> 𝑰𝒏𝒇𝒊𝒙 𝒕𝒐 𝑷𝒓𝒆𝒇𝒊𝒙 𝒄𝒐𝒏𝒗𝒆𝒓𝒔𝒊𝒐𝒏 (𝒖𝒔𝒊𝒏𝒈 𝑪𝒍𝒂𝒔𝒔(𝑫𝒚𝒏𝒂𝒎𝒊𝒄))  </a></li></h3>
+   
+</ul>  
+  
  
   
 </ul>
