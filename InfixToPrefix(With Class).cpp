@@ -65,13 +65,13 @@ public:
     }
 };
 
-class InfixToPostfixConverter
+class InfixToPrefixConverter
 {
 private:
     Stack st;
 
 public:
-    InfixToPostfixConverter(int capacity) : st(capacity) {} // Above constructor is called
+    InfixToPrefixConverter(int capacity) : st(capacity) {} // Above constructor is called
 
     int precedence(char x)
     {
@@ -186,7 +186,7 @@ int main()
     char *infix = new char[size];
     cout << "Enter the infix expression: ";
     cin >> infix;
-    InfixToPostfixConverter ip(size);
+    InfixToPrefixConverter ip(size);
     cout << ip.convertToPostfix(infix) << endl;
     return 0;
 }
