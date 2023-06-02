@@ -292,6 +292,30 @@ The repository will contain programs about Data Structure built on C plus plus l
    
 </ul>  
   
+  
+  
+<h2><li> 𝑷𝒓𝒆𝒇𝒊𝒙 𝑬𝒗𝒂𝒍𝒖𝒂𝒕𝒊𝒐𝒏  </li></h2>   
+  
+ <ul>
+   
+ <h3><li> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/PrefixEvaluation(with%20Static).cpp "> 𝑷𝒓𝒆𝒇𝒊𝒙 𝑬𝒗𝒂𝒍𝒖𝒂𝒕𝒊𝒐𝒏 (𝒖𝒔𝒊𝒏𝒈 𝑺𝒕𝒂𝒕𝒊𝒄 𝑨𝒓𝒓𝒂𝒚)  </a></li></h3>
+   
+ <ul>
+ 
+<h3><li> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/PrefixEvaluation(with%20StaticType2).cpp">  𝑷𝒓𝒆𝒇𝒊𝒙 𝑬𝒗𝒂𝒍𝒖𝒂𝒕𝒊𝒐𝒏(𝒖𝒔𝒊𝒏𝒈 𝑺𝒕𝒂𝒕𝒊𝒄 𝑨𝒓𝒓𝒂𝒚-𝑻𝒚𝒑𝒆 𝟐)</a></li></h3> 
+   
+ 
+   
+ </ul>  
+   
+   
+<h3><li> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/PrefixEvaluation(Dynamic%20Using%20Malloc).cpp">  𝑷𝒓𝒆𝒇𝒊𝒙 𝑬𝒗𝒂𝒍𝒖𝒂𝒕𝒊𝒐𝒏 (𝒖𝒔𝒊𝒏𝒈 𝑴𝒂𝒍𝒍𝒐𝒄(𝑫𝒚𝒏𝒂𝒎𝒊𝒄))</a></li></h3>  
+   
+<h3><li> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/PrefixEvaluation(with%20Class).cpp">  𝑷𝒓𝒆𝒇𝒊𝒙 𝑬𝒗𝒂𝒍𝒖𝒂𝒕𝒊𝒐𝒏 (𝒖𝒔𝒊𝒏𝒈 𝑪𝒍𝒂𝒔𝒔(𝑫𝒚𝒏𝒂𝒎𝒊𝒄))</a></li></h3>    
+   
+
+   
+ </ul>  
  
   
 </ul>
