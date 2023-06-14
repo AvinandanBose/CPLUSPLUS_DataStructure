@@ -321,3 +321,30 @@ The repository will contain programs about Data Structure built on C plus plus l
 </ul>
   
   <hr style="color:black;background-color:black;height:2px">
+
+<ul>
+
+<h2><li>𝑹𝒆𝒄𝒖𝒓𝒔𝒊𝒐𝒏 </li></h2>   
+
+<ul>
+<h2><li>𝑻𝒚𝒑𝒆𝒔 𝒐𝒇 𝑹𝒆𝒄𝒖𝒓𝒔𝒊𝒐𝒏 </li></h2>   
+
+
+<ul>
+<h3><li> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/TypesOfRec_HeadRecursion.cpp"> 𝑨.𝑯𝒆𝒂𝒅 𝑹𝒆𝒄𝒖𝒓𝒔𝒊𝒐𝒏</a></li></h3> 
+<h3><li> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/TypesOfRec_TailRecursion.cpp">𝑩. 𝑻𝒂𝒊𝒍 𝑹𝒆𝒄𝒖𝒓𝒔𝒊𝒐𝒏</a></li></h3>  
+<h3><li> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/TypesOfRec_TreeRecursion.cpp"> 𝑪.𝑻𝒓𝒆𝒆 𝑹𝒆𝒄𝒖𝒓𝒔𝒊𝒐𝒏</a></li></h3>  
+<h3><li> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/TypesOfRec_nestedRecursion.cpp">𝑫. 𝑵𝒆𝒔𝒕𝒆𝒅 𝑹𝒆𝒄𝒖𝒓𝒔𝒊𝒐𝒏</a></li></h3> 
+<h3><li> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/TypesOfRec_implicitRecursion.cpp"> 𝑬.𝑰𝒎𝒑𝒍𝒊𝒄𝒊𝒕 𝑹𝒆𝒄𝒖𝒓𝒔𝒊𝒐𝒏</a></li></h3> 
+
+<ul>
+  
+<h3><li> <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/TypesOfRec_IndirectRecursion.cpp"> 𝑬.𝒂.𝑰𝒏𝒅𝒊𝒓𝒆𝒄𝒕 𝑹𝒆𝒄𝒖𝒓𝒔𝒊𝒐𝒏</a></li></h3>
+
+</ul>
+
+</ul>
+
+</ul>
+
+</ul>  
