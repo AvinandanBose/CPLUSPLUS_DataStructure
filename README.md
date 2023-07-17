@@ -345,6 +345,14 @@ The repository will contain programs about Data Structure built on C plus plus l
 
 </ul>
 
+<h2><li>𝑹𝒆𝒄𝒖𝒓𝒔𝒊𝒐𝒏 𝑩𝒂𝒔𝒆𝒅 𝒐𝒏 𝑳𝒊𝒏𝒆𝒂𝒓 𝑹𝒆𝒄𝒖𝒓𝒓𝒆𝒏𝒄𝒆 𝑬𝒒𝒖𝒂𝒕𝒊𝒐𝒏𝒔 </li></h2> 
+
+<ul>
+  
+<h3><a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/recursion_handshake_problem.cpp">𝑨. 𝑯𝒂𝒏𝒅 𝑺𝒉𝒂𝒌𝒆 𝑷𝒓𝒐𝒃𝒍𝒆𝒎</h3>
+
+</ul>
+
 </ul>
 
 </ul>  
