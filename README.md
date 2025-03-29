@@ -353,6 +353,7 @@ The repository will contain programs about Data Structure built on C plus plus l
 
 <h3><a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/recursion_fibonacci_series.cpp">𝑩.𝑭𝒊𝒃𝒐𝒏𝒂𝒄𝒄𝒊 𝑺𝒆𝒓𝒊𝒆𝒔</a></h3>
 
+<h3><a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/factorial.cpp">𝑪.𝑭𝒂𝒄𝒕𝒐𝒓𝒊𝒂𝒍 </a></h3>
 
 </ul>
 
