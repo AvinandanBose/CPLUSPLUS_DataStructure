@@ -47,7 +47,7 @@ void push(Stack *st, int x)
     }
 }
 
-int pop(Stack *st)
+void pop(Stack *st)
 {
 
     if (isEmpty(*st))
@@ -181,3 +181,4 @@ int main()
 
     return 0;
 }
+
