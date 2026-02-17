@@ -56,6 +56,7 @@ public:
         if (isEmpty(st))
         {
             cout << "Stack Underflow" << endl;
+            return -1;
         }
 
         return s[top--];
@@ -173,3 +174,4 @@ int main()
         }
     }
 }
+
