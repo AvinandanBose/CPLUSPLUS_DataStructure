@@ -53,7 +53,7 @@ int pop(Stack *st)
     if (isEmpty(*st))
     {
         cout << "Stack Underflow" << endl;
-        return -1
+        return -1;
     }
 
     return st->s[st->top--];
@@ -182,5 +182,6 @@ int main()
 
     return 0;
 }
+
 
 
