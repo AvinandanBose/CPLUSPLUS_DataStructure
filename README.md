@@ -360,5 +360,12 @@ The repository will contain programs about Data Structure built on C plus plus l
 </ul>
 
 </ul>
-
+<h2><li>𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕𝒔-𝑶𝒑𝒆𝒓𝒂𝒕𝒊𝒐𝒏𝒔 </li></h2> 
+<ul>
+  <h3>𝑨. 𝑺𝒊𝒏𝒈𝒍𝒚 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕𝒔 </a></h3>
+   <ul>
+     <h3><a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/singlylinkedlist.cpp">𝑨.𝒂. 𝑺𝒊𝒏𝒈𝒍𝒚 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 𝒘𝒊𝒕𝒉 𝑺𝒕𝒓𝒖𝒄𝒕 </a></h3>
+     <h3><a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/singlyLinkedListWithClass.cpp">𝑨.𝒃. 𝑺𝒊𝒏𝒈𝒍𝒚 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 𝒘𝒊𝒕𝒉 𝑪𝒍𝒂𝒔𝒔 </a></h3>
+   </ul>
+</ul>
 </ul>  
