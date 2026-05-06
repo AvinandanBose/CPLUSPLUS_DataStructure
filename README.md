@@ -381,5 +381,12 @@ The repository will contain programs about Data Structure built on C plus plus l
    <h3><a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/CircularLinkedList.cpp">𝑪.𝒂. 𝑪𝒊𝒓𝒄𝒖𝒍𝒂𝒓 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 𝒘𝒊𝒕𝒉 𝑺𝒕𝒓𝒖𝒄𝒕 </a></h3>
      <h3><a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/CircularLinkedListWithClass.cpp">𝑪.𝒃. 𝑪𝒊𝒓𝒄𝒖𝒍𝒂𝒓 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 𝒘𝒊𝒕𝒉 𝑪𝒍𝒂𝒔𝒔 </a></h3>
 </ul>
+
+<h3>𝑫. 𝑪𝒊𝒓𝒄𝒖𝒍𝒂𝒓 𝑫𝒐𝒖𝒃𝒍𝒚 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕  </h3>
+
+<ul>
+   <h3><a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/CircularDoublyLinkedList.cpp">𝑫.𝒂. 𝑪𝒊𝒓𝒄𝒖𝒍𝒂𝒓 𝑫𝒐𝒖𝒃𝒍𝒚 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 𝒘𝒊𝒕𝒉 𝑺𝒕𝒓𝒖𝒄𝒕 </a></h3>
+     <h3><a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/CircularDoublyLinkedListWithClass.cpp">𝑫.𝒃. 𝑪𝒊𝒓𝒄𝒖𝒍𝒂𝒓 𝑫𝒐𝒖𝒃𝒍𝒚 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 𝒘𝒊𝒕𝒉 𝑪𝒍𝒂𝒔𝒔 </a></h3>
+</ul>
 </ul>
 </ul>  
