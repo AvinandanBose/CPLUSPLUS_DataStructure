@@ -388,5 +388,11 @@ The repository will contain programs about Data Structure built on C plus plus l
    <h3><a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/CircularDoublyLinkedList.cpp">𝑫.𝒂. 𝑪𝒊𝒓𝒄𝒖𝒍𝒂𝒓 𝑫𝒐𝒖𝒃𝒍𝒚 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 𝒘𝒊𝒕𝒉 𝑺𝒕𝒓𝒖𝒄𝒕 </a></h3>
      <h3><a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/CircularDoublyLinkedListWithClass.cpp">𝑫.𝒃. 𝑪𝒊𝒓𝒄𝒖𝒍𝒂𝒓 𝑫𝒐𝒖𝒃𝒍𝒚 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 𝒘𝒊𝒕𝒉 𝑪𝒍𝒂𝒔𝒔 </a></h3>
 </ul>
+
+<h3>𝑬. 𝑿𝑶𝑹 𝑴𝒆𝒎𝒐𝒓𝒚 𝑬𝒇𝒇𝒊𝒄𝒊𝒆𝒏𝒕 𝑫𝒐𝒖𝒃𝒍𝒚 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕  </h3>
+<ul>
+   <h3><a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/MemEffDoublyLinkedList.cpp">𝑬.𝒂. 𝑿𝑶𝑹 𝑴𝒆𝒎𝒐𝒓𝒚 𝑬𝒇𝒇𝒊𝒄𝒊𝒆𝒏𝒕 𝑫𝒐𝒖𝒃𝒍𝒚 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 𝒘𝒊𝒕𝒉 𝑺𝒕𝒓𝒖𝒄𝒕 </a></h3>
+     <h3><a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/MemEffDoublyLinkedListWithClass.cpp">𝑬.𝒃. 𝑿𝑶𝑹 𝑴𝒆𝒎𝒐𝒓𝒚 𝑬𝒇𝒇𝒊𝒄𝒊𝒆𝒏𝒕 𝑫𝒐𝒖𝒃𝒍𝒚 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 𝒘𝒊𝒕𝒉 𝑪𝒍𝒂𝒔𝒔 </a></h3>
+</ul>
 </ul>
 </ul>  
