@@ -401,5 +401,18 @@ The repository will contain programs about Data Structure built on C plus plus l
      <h3><a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/HeaderLinkedListWithClass.cpp">𝑭.𝒃. 𝑯𝒆𝒂𝒅𝒆𝒓 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 𝒘𝒊𝒕𝒉 𝑪𝒍𝒂𝒔𝒔 </a></h3>
 </ul>
 
+<h3>𝑮.𝑴𝒖𝒍𝒕𝒊-𝑳𝒆𝒗𝒆𝒍 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 </h3>
+<ul>
+<h3><a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/Multi-Level%20Linked%20List%20with%20struct.cpp">𝑮.𝒂. 𝑴𝒖𝒍𝒕𝒊-𝑳𝒆𝒗𝒆𝒍 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 𝒘𝒊𝒕𝒉 𝑺𝒕𝒓𝒖𝒄𝒕 </a></h3>
+<h3><a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/Modified-Multi-Level%20Linked%20List%20with%20struct.cpp">𝑮.𝒃. 𝑴𝒐𝒅𝒊𝒇𝒊𝒆𝒅 𝑴𝒖𝒍𝒕𝒊-𝑳𝒆𝒗𝒆𝒍 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 𝒘𝒊𝒕𝒉 𝑺𝒕𝒓𝒖𝒄𝒕 </a></h3>
+  <h3><a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/Modified-Multi-Level%20Linked%20List%20with%20class.cpp">𝑮.𝒄. 𝑴𝒐𝒅𝒊𝒇𝒊𝒆𝒅 𝑴𝒖𝒍𝒕𝒊-𝑳𝒆𝒗𝒆𝒍 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 𝒘𝒊𝒕𝒉 𝑪𝒍𝒂𝒔𝒔 </a></h3>
+  <h3><a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/Modified-Multi-Level%20Linked%20List-Doubly%20Linked%20List%20with%20struct.cpp">𝑮.𝒅. 𝑴𝒐𝒅𝒊𝒇𝒊𝒆𝒅 𝑴𝒖𝒍𝒕𝒊-𝑳𝒆𝒗𝒆𝒍 𝑫𝒐𝒖𝒃𝒍𝒚 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 𝒘𝒊𝒕𝒉 𝑺𝒕𝒓𝒖𝒄𝒕 </a></h3>
+   <h3><a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/Modified-Multi-Level%20Linked%20List-Doubly%20Linked%20List%20with%20class.cpp">𝑮.𝒆. 𝑴𝒐𝒅𝒊𝒇𝒊𝒆𝒅 𝑴𝒖𝒍𝒕𝒊-𝑳𝒆𝒗𝒆𝒍 𝑫𝒐𝒖𝒃𝒍𝒚 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 𝒘𝒊𝒕𝒉 𝑪𝒍𝒂𝒔𝒔 </a></h3>
+ <h3><a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/Modified-Multi-Level%20Linked%20List-Circular%20Linked%20List%20with%20struct.cpp">𝑮.𝒇. 𝑴𝒐𝒅𝒊𝒇𝒊𝒆𝒅 𝑴𝒖𝒍𝒕𝒊-𝑳𝒆𝒗𝒆𝒍 𝑪𝒊𝒓𝒄𝒖𝒍𝒂𝒓 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 𝒘𝒊𝒕𝒉 𝑺𝒕𝒓𝒖𝒄𝒕 </a></h3>
+  <h3><a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/Modified-Multi-Level%20Linked%20List-Circular%20Linked%20List%20with%20class.cpp">𝑮.𝒈. 𝑴𝒐𝒅𝒊𝒇𝒊𝒆𝒅 𝑴𝒖𝒍𝒕𝒊-𝑳𝒆𝒗𝒆𝒍 𝑪𝒊𝒓𝒄𝒖𝒍𝒂𝒓 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 𝒘𝒊𝒕𝒉 𝑪𝒍𝒂𝒔𝒔 </a></h3>
+<h3><a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/Modified-Multi-Level%20Linked%20List-Circular%20Doubly%20Linked%20List%20with%20struct.cpp">𝑮.𝒉. 𝑴𝒐𝒅𝒊𝒇𝒊𝒆𝒅 𝑴𝒖𝒍𝒕𝒊-𝑳𝒆𝒗𝒆𝒍 𝑪𝒊𝒓𝒄𝒖𝒍𝒂𝒓 𝑫𝒐𝒖𝒃𝒍𝒚 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 𝒘𝒊𝒕𝒉 𝑺𝒕𝒓𝒖𝒄𝒕 </a></h3>
+<h3><a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/Modified-Multi-Level%20Linked%20List-Circular%20Doubly%20Linked%20List%20with%20class.cpp">𝑮.𝒊. 𝑴𝒐𝒅𝒊𝒇𝒊𝒆𝒅 𝑴𝒖𝒍𝒕𝒊-𝑳𝒆𝒗𝒆𝒍 𝑪𝒊𝒓𝒄𝒖𝒍𝒂𝒓 𝑫𝒐𝒖𝒃𝒍𝒚 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕 𝒘𝒊𝒕𝒉 𝑪𝒍𝒂𝒔𝒔 </a></h3> 
+</ul>
+
 </ul>
 </ul>  
