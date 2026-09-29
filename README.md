@@ -420,5 +420,19 @@ The repository will contain programs about Data Structure built on C plus plus l
 <h3><a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/skip_list_with_class.cpp">𝑯.𝒃.𝑺𝒌𝒊𝒑 𝑳𝒊𝒔𝒕 𝒘𝒊𝒕𝒉 𝑪𝒍𝒂𝒔𝒔 </a></h3>
 </ul>
 
+<h3>𝑰.𝑼𝒏𝒓𝒐𝒍𝒍𝒆𝒅 𝑳𝒊𝒔𝒕 </h3>
+<ul>
+<h3> 𝑰.𝑨.𝑺𝒊𝒎𝒑𝒍𝒆𝒓 𝑩𝒂𝒔𝒊𝒄 𝑼𝒏𝒓𝒐𝒍𝒍𝒆𝒅 𝑳𝒊𝒔𝒕 </h3>
+<ul>
+<h3><a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/Unrolled%20List_With_Struct.cpp">𝑰.𝑨.𝒂.𝑺𝒊𝒎𝒑𝒍𝒆𝒓 𝑩𝒂𝒔𝒊𝒄 𝑼𝒏𝒓𝒐𝒍𝒍𝒆𝒅 𝑳𝒊𝒔𝒕 𝒘𝒊𝒕𝒉 𝑺𝒕𝒓𝒖𝒄𝒕 </a></h3>
+<h3><a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/Unrolled%20List_With_Class.cpp">𝑰.𝑨.𝒃.𝑺𝒊𝒎𝒑𝒍𝒆𝒓 𝑩𝒂𝒔𝒊𝒄 𝑼𝒏𝒓𝒐𝒍𝒍𝒆𝒅 𝑳𝒊𝒔𝒕 𝒘𝒊𝒕𝒉 𝑪𝒍𝒂𝒔𝒔 </a></h3>
+</ul>
+
+<h3> 𝑰.𝑩.𝑫𝒚𝒏𝒂𝒎𝒊𝒄 𝑺𝒕𝒓𝒖𝒄𝒕𝒖𝒓𝒆𝒅 𝑺𝒉𝒊𝒇𝒕-𝑩𝒂𝒔𝒆𝒅 𝑼𝒏𝒓𝒐𝒍𝒍𝒆𝒅 𝑳𝒊𝒏𝒌𝒆𝒅 𝑳𝒊𝒔𝒕𝒔(𝑫𝒖𝒆) </h3>
+<ul></ul>
+</ul>
+
+<h3>--- 𝑬𝑵𝑫 𝑶𝑭 𝑳𝑰𝑵𝑲𝑬𝑫 𝑳𝑰𝑺𝑻--- </h3>
+
 </ul>
 </ul>  
